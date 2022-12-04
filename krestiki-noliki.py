@@ -261,7 +261,4 @@ while grand_usl:
                     
         
         igrovoe_pole_change (igrovoe_pole,nomer,hod, igrok, igrok_python)
-        hod=1
-
-
-        
+        hod=1      
